@@ -13,9 +13,9 @@ NOTE: All installation methods are broken and in development. The following inst
 #### Installation
 - After cloning both repos go to the folder it cloned to and run `Editor/launcher.py` in python
 - When the launcher loads click "New Project"
-[![New project example][/image/here]]
+![New project example](https://github.com/Crumbl-Studios/CrumblEngineEditorTemplates/blob/d8328d222a8b3325d7c766a0830d640efa28fd6b/newProjectInstall.png)
 - Click on the "Install a template" button
-[![Installing a template example][/image/here]]
+![Installing a template example](https://github.com/Crumbl-Studios/CrumblEngineEditorTemplates/blob/d8328d222a8b3325d7c766a0830d640efa28fd6b/InstallProducts.png)
 - Choose an install file pack and click Open
 - Sit back, relax, let it install (depending on size this may take a while)
 - After it installs, you will see a message asking if you would like to remove the pack files after it is finished
