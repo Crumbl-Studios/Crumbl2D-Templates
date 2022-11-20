@@ -1,4 +1,4 @@
-# Crumbl2DEditorTemplates
+# Crumbl2D Templates
 [![License](https://img.shields.io/:license-gplv2-green.svg)](https://tldrlegal.com/license/gnu-general-public-license-v2)
 ## What this is
 These are the default project templates for the Crumbl2D Editor. You can find the entire [Crumbl2D Editor](https://github.com/Crumbl-Studios/CrumblEngine) with source code here. This is the repository Crumbl2D will download from when downloading templates.
